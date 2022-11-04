@@ -64,7 +64,7 @@ int main()
     foutput.open (Index_loc,ios::app); 
  
     if(finput.is_open())
-        foutput << "Link: https://raw.githubusercontent.com/UCDrones-research/Drone-image-database/main" << Pic_name << "   Image Type: " << Pic_type << "   Tags: " << Pic_tags << "   Date added: " <<t.tm_mon+1<<"/"<<t.tm_mday<<"/"<<t.tm_year+1900 << "   Date created: " << Pic_Ctime << endl; 
+        foutput << "Link: https://raw.githubusercontent.com/UCDrones-research/Drone-image-database/main/Repo" << Pic_name << "   Image Type: " << Pic_type << "   Tags: " << Pic_tags << "   Date added: " <<t.tm_mon+1<<"/"<<t.tm_mday<<"/"<<t.tm_year+1900 << "   Date created: " << Pic_Ctime << endl; 
  
     finput.close();
     foutput.close(); 
