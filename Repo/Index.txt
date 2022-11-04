@@ -1,1 +1,3 @@
 Link: https://raw.githubusercontent.com/UCDrones-research/Drone-image-database/main/Repo\20220512_215402.jpg   Image Type: Photo   Tags: Car, Jdm, Motion blur   Date added: 11/4/2022   Date created: N/A
+Link: https://raw.githubusercontent.com/UCDrones-research/Drone-image-database/main/Repo\20220520_110946.jpg   Image Type: Photo   Tags: Tensegrity, Bed, Blinds   Date added: 11/4/2022   Date created: ~11/04/2020
+Link: https://raw.githubusercontent.com/UCDrones-research/Drone-image-database/main/Repo\Apex.png   Image Type: Screenshot   Tags: Apex legends, video game, test data   Date added: 11/4/2022   Date created: N/A
