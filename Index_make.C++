@@ -45,7 +45,7 @@ int main()
     Pic_name = Pic_loc.erase(0, Last_BSlash);
     Pic_loc = Pic_loc_temp;
 
-    New_Pic_loc = Repo_loc + "\\" + Pic_name;
+    New_Pic_loc = Repo_loc + "//" + Pic_name;
 
     if (rename(Pic_loc.c_str(),New_Pic_loc.c_str()))
     perror( NULL );
